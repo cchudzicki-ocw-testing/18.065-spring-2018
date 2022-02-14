@@ -2,6 +2,27 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Problem Set
+optional_text: "**Problems for Lecture 15  \nFrom textbook Sections III.1 - III.2**\n\
+  \n1\\. A unit vector \\\\(\\\\boldsymbol{u}(t)\\\\) describes a point moving around\
+  \ on the unit sphere \\\\(\\\\boldsymbol{u}^{\\\\mathtt{T}} \\\\boldsymbol{u} =1\\\
+  \\). Show that the velocity vector \\\\(d\\\\boldsymbol{u}/dt\\\\) is orthogonal\
+  \ to the position: \\\\(\\\\boldsymbol{u}^{\\\\mathtt{T}}(d\\\\boldsymbol{u}/dt)=0\\\
+  \\).\n\n2\\. Suppose you add a positive semidefinite **rank two** matrix to \\\\\
+  (S\\\\). What interlacing inequalities will connect the eigenvalues \\\\(\\\\lambda\\\
+  \\) of \\\\(S\\\\) and \\\\(\\\\alpha\\\\) of \\\\(S+\\\\boldsymbol{uu}^{\\\\mathtt{T}}+\\\
+  \\boldsymbol{vv}^{\\\\mathtt{T}}\\\\) ?\n\n5\\. Find the eigenvalues of \\\\(A\\\
+  _3\\\\) and \\\\(A\\_2\\\\) and \\\\(A\\_1\\\\). Show that they are interlacing:\n\
+  \n$$A\\_3 = \\\\left\\[\\\\begin{matrix}1 & -1&0 \\\\\\\\ -1 &2&-1\\\\\\\\ 0 &-1&1\\\
+  \\end{matrix}\\\\right\\] \\\\hspace{12pt} A\\_2 = \\\\left\\[\\\\begin{matrix}1\
+  \ & -1\\\\\\\\ -1 & 2\\\\end{matrix}\\\\right\\] \\\\hspace{12pt} A\\_1 = \\\\left\\\
+  [\\\\begin{matrix}1\\\\end{matrix}\\\\right\\] $$"
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 15: Matrices A(t) Depending on t, Derivative = dA/dt '
 uid: 3f21d4df-9b2f-4e82-d09f-7d32496dc46d

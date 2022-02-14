@@ -2,6 +2,18 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Problem Set
+optional_text: "**Problem for Lecture 23  \nFrom textbook Section VI.4**\n\n5\\. Explain\
+  \ why projection onto a convex set \\\\(K\\\\) is a _contraction_ in equation (24).\
+  \ Why is the distance \\\\(||\\\\boldsymbol{x}-\\\\boldsymbol{y}||\\\\) never increased\
+  \ when \\\\(\\\\boldsymbol{x}\\\\) and \\\\(\\\\boldsymbol{y}\\\\) are projected\
+  \ onto \\\\(K\\\\)?"
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 23: Accelerating Gradient Descent (Use Momentum)'
 uid: d701065a-0c65-a65f-846f-2d1b676f9614
@@ -25,7 +37,7 @@ In this lecture, Professor Strang explains both momentum-based gradient descent 
 Study the zig-zag example: Minimize \\(F = \\frac{1}{2} (x^2 + by^2)\\)  
 Add a momentum term / heavy ball remembers its directions.  
 New point \\(k\\) + 1 comes from TWO old points \\(k\\) and \\(k\\) - 1.  
-"1st order" becomes "2nd order" or "1st order system" as in ODEs.  
+"1{{< sup "st" >}} order" becomes "2{{< sup "nd" >}} order" or "1{{< sup "st" >}} order system" as in ODEs.  
 Convergence rate improves: 1 - \\(b\\) to 1 - square root of \\(b\\) !
 
 Related section in textbook: VI.4

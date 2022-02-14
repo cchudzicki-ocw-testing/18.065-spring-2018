@@ -2,6 +2,19 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Problem Set
+optional_text: "**Problems for Lecture 30  \nFrom textbook Section IV.8**\n\n3\\.\
+  \ For a connected graph with \\\\(M\\\\) edges and \\\\(N\\\\) nodes, what requirement\
+  \ on \\\\(M\\\\) and \\\\(N\\\\) comes from each of the words _spanning tree_?\n\
+  \n**From textbook Section IV.2**\n\n1\\. Find \\\\(\\\\boldsymbol{c\\\\ast d}\\\\\
+  ) and \\\\(\\\\boldsymbol{c \\\\circledast d}\\\\) for \\\\(\\\\boldsymbol{c}=(2,1,3)\\\
+  \\) and \\\\(\\\\boldsymbol{d}=(3,1,2)\\\\)."
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 30: Completing a Rank-One Matrix, Circulants!'
 uid: 498c2c93-21ce-4bd8-842e-d9c6f02e8c04

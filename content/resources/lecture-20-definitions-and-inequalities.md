@@ -2,6 +2,27 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Problem Set
+optional_text: "**Problems for Lecture 20  \nFrom textbook Section V.1**\n\n10\\.\
+  \ Computer experiment: Find the average \\\\(A\\_{1000000}\\\\) of a million random\
+  \ 0-1 samples! What is your value of the standardized variable \\\\(X=\\\\left(A\\\
+  _N-\\\\frac{1}{2}\\\\right) / 2\\\\sqrt{N}\\\\)?\n\n12\\. For any function \\\\\
+  (f(x)\\\\) the expected value is \\\\(\\\\hbox{E}\\[f\\]=\\\\sum p\\_i\\\\, f(x\\\
+  _i)\\\\) or \\\\(\\\\int p(x)\\\\,f(x)\\\\,dx\\\\) (discrete or continuous probability).\
+  \ The function can be \\\\(x\\\\) or \\\\((x-m)^2\\\\) or \\\\(x^2\\\\).\n\nIf the\
+  \ mean is \\\\(\\\\hbox{E}\\[x\\]=m\\\\) and the variance is \\\\(\\\\hbox{E}\\\
+  [(x-m)^2\\]=\\\\sigma^2\\\\) **what is E**\\\\(\\\\boldsymbol{\\[x^2\\]}\\\\)?\n\
+  \n**From textbook Section V.3**\n\n3\\. A fair coin flip has outcomes \\\\(X=0\\\
+  \\) and \\\\(X=1\\\\) with probabilities \\\\(\\\\frac{1}{2}\\\\) and \\\\(\\\\\
+  frac{1}{2}\\\\). What is the probability that \\\\(X\\\\geq 2\\\\overline{X}\\\\\
+  )? Show that Markov's inequality gives the exact probability \\\\(\\\\overline{X}/2\\\
+  \\) in this case."
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 20: Definitions and Inequalities'
 uid: dc7f7372-dc17-5f5a-c98e-2c85b0d4280b

@@ -2,6 +2,19 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Problem Set
+optional_text: "**Problem for Lecture 25  \nFrom textbook Section VI.5**\n\n1\\. Suppose\
+  \ we want to minimize \\\\(F(x,y)=y^2+(y-x)^2\\\\). The actual minimum is \\\\(F=0\\\
+  \\) at \\\\((x^\\\\ast, y^\\\\ast)=(0,0)\\\\). Find the gradient vector \\\\(\\\\\
+  boldsymbol{\\\\nabla F}\\\\) at the starting point \\\\((x\\_0, y\\_0)=(1,1)\\\\\
+  ). For full gradient descent (_not stochastic_) with step \\\\(s=\\\\frac{1}{2}\\\
+  \\), where is \\\\((x\\_1, y\\_1)\\\\)?"
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 25: Stochastic Gradient Descent'
 uid: cc1df015-cfc3-b3dd-42f1-d611e51bd754

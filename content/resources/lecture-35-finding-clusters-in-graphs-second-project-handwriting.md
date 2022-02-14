@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Problem Set
+optional_text: "**Problem for Lecture 35  \nFrom textbook Sections IV.6-IV.7**\n\n\
+  1\\. What are the Laplacian matrices for a triangle graph and a square graph?"
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 35: Finding Clusters in Graphs'
 uid: 3d3111b5-d8ec-1cc0-4ce6-e84c758a5976

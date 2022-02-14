@@ -2,6 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Problem Set
+optional_text: "**Problems for Lecture 31  \nFrom textbook Section IV.2**\n\n3\\.\
+  \ If \\\\(\\\\boldsymbol{c\\\\ast d} = \\\\boldsymbol{e}\\\\), why is \\\\((\\\\\
+  sum c\\_i)(\\\\sum d\\_i)=(\\\\sum e\\_i)\\\\)? Why was our check successful?  \n\
+  \\\\((1+2+3)\\\\,(5+0+4)=(\\\\boldsymbol{6})\\\\,(\\\\boldsymbol{9})=\\\\boldsymbol{54}=5+10+19+8+12\\\
+  \\).\n\n5\\. What are the eigenvalues of the 4 by 4 circulant \\\\(C=I+P+P^2+P^3\\\
+  \\)? Connect those eigenvalues to the discrete transform \\\\(F\\\\boldsymbol{c}\\\
+  \\) for \\\\(\\\\boldsymbol{c}=(1,1,1,1)\\\\). For which three real or complex numbers\
+  \ \\\\(z\\\\) is \\\\(1+z+z^2+z^3=0\\\\)?"
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 31: Eigenvectors of Circulant Matrices: Fourier Matrix'
 uid: c2ad1c7a-a4fb-b2b8-7174-1c8e96fa2cf7

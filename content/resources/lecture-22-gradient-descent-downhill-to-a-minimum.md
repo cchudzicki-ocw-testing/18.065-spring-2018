@@ -2,6 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Problem Set
+optional_text: "**Problems for Lecture 22  \nFrom textbook Section VI.4**\n\n1\\.\
+  \ For a 1 by 1 matrix in Example 3, the determinant is just \\\\(\\\\det X=x\\_{11}\\\
+  \\). Find the first and second derivatives of \\\\(F(X)=-\\\\log(\\\\det X)=-\\\\\
+  log x\\_{11}\\\\) for \\\\(x\\_{11}>0\\\\). Sketch the graph of \\\\(F=-\\\\log\
+  \ x\\\\) to see that this function \\\\(F\\\\) is convex.\n\n6\\. What is the gradient\
+  \ descent equation \\\\(\\\\boldsymbol{x}\\_{k+1}=\\\\boldsymbol{x}\\_k-s\\_k\\\\\
+  nabla f(\\\\boldsymbol{x}\\_k)\\\\) for the least squares problem of minimizing\
+  \ \\\\(f(\\\\boldsymbol{x})=\\\\frac{1}{2}||A\\\\boldsymbol{x}-\\\\boldsymbol{b}||^2\\\
+  \\)?"
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 22: Gradient Descent: Downhill to a Minimum'
 uid: 4318cf43-b3aa-08b7-9564-f2376a48f586

@@ -2,6 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Problem Set
+optional_text: "**Problems for Lecture 33  \nFrom textbook Section VII.1**\n\n5\\\
+  . How many weights and biases are in a network with \\\\(m=N\\_0=4\\\\) inputs in\
+  \ each feature vector \\\\(\\\\boldsymbol{v}\\_0\\\\) and \\\\(N=6\\\\) neurons\
+  \ on each of the 3 hidden layers? How many activation functions \\\\((\\\\hbox{ReLU})\\\
+  \\) are in this network, before the final output?\n\n**From textbook Section IV.10**\n\
+  \n2\\. \\\\(||\\\\boldsymbol{x}\\_1-\\\\boldsymbol{x}\\_2||^2=9\\\\) and \\\\(||\\\
+  \\boldsymbol{x}\\_2-\\\\boldsymbol{x}\\_3||^2=16\\\\) and \\\\(||\\\\boldsymbol{x}\\\
+  _1-\\\\boldsymbol{x}\\_3||^2=25\\\\) do satisfy the triangle inequality \\\\(3+4>5\\\
+  \\). Construct \\\\(G\\\\) and find points \\\\(\\\\boldsymbol{x}\\_1,\\\\boldsymbol{x}\\\
+  _2,\\\\boldsymbol{x}\\_3\\\\) that match these distances."
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 33: Neural Nets and the Learning Function'
 uid: 33f50eb0-834b-b370-3bab-34db3bc9745f

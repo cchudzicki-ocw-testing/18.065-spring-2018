@@ -2,6 +2,18 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Problem Set
+optional_text: "**Problems for Lecture 32  \nFrom textbook Section IV.2**\n\n4\\.\
+  \ Any two circulant matrices of the same size commute: \\\\(CD=DC\\\\). They have\
+  \ the same eigenvectors \\\\(\\\\boldsymbol{q}\\_k\\\\) (the columns of the Fourier\
+  \ matrix \\\\(F\\\\)). Show that the eigenvalues \\\\(\\\\lambda\\_k(CD)\\\\) are\
+  \ equal to \\\\(\\\\lambda\\_k(C)\\\\) times \\\\(\\\\lambda\\_k(D)\\\\)."
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 32: ImageNet is a Convolutional Neural Network (CNN), The Convolution
   Rule'
@@ -23,7 +35,7 @@ Professor Strang begins the lecture talking about ImageNet, a large visual datab
 Summary
 -------
 
-Convolution matrices have \\(\\leq\\) \\(n\\) parameters (not \\(n\\)2).  
+Convolution matrices have \\(\\leq\\) \\(n\\) parameters (not \\(n\\){{< sup "2" >}}).  
 Fewer weights to compute in deep learning  
 Component \\(k\\) from convolution \\(c\*d\\): Add all \\(c(j)d(k-j)\\)  
 Convolution Rule: \\(F(c\*d) = Fc\\) times \\(Fd\\) (component by component)  

@@ -2,6 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Problem Set
+optional_text: "**Problem for Lecture 12  \nFrom textbook Section II.1**\n\nThese\
+  \ problems start with a bidiagonal \\\\(n\\\\) by \\\\(n\\\\) backward difference\
+  \ matrix \\\\(D = I \u2212 S\\\\). Two tridiagonal second difference matrices are\
+  \ \\\\(DD^{\\\\mathtt{T}}\\\\) and \\\\(A = \u2212S + 2I \u2212S^{\\\\mathtt{T}}\\\
+  \\). The shift \\\\(S\\\\) has one nonzero subdiagonal \\\\(S\\_{i, i-1}=1\\\\)\
+  \ for \\\\(i=2,\\\\ldots,n\\\\). \\\\(A\\\\) has diagonals \u22121, 2, \u22121.\n\
+  \n1\\. Show that \\\\(DD^{\\\\mathtt{T}}\\\\) equals \\\\(A\\\\) except that \\\\\
+  (1\\\\neq 2\\\\) in their (1, 1) entries. Similarly \\\\(D^{\\\\mathtt{T}} D = A\\\
+  \\) except that \\\\(1\\\\neq 2\\\\) in their \\\\((n,n)\\\\) entries."
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 12: Computing Eigenvalues and Singular Values'
 uid: f86188c9-7f54-197c-2e0a-c6b782a4b52d

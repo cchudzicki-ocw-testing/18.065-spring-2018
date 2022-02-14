@@ -2,6 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Problem Set
+optional_text: "**Problems for Lecture 7  \nFrom textbook Section I.9**\n\n2\\. Find\
+  \ a closest rank-1 approximation to these matrices (\\\\(L^2\\\\) or Frobenius norm)\
+  \ :\n\n$$A = \\\\left\\[\\\\begin{matrix}3 & 0&0 \\\\\\\\ 0 &2&0\\\\\\\\ 0 & 0&1\\\
+  \\end{matrix}\\\\right\\] \\\\hspace{12pt} A = \\\\left\\[\\\\begin{matrix}0 & 3\\\
+  \\\\\\ 2 & 0\\\\end{matrix}\\\\right\\] \\\\hspace{12pt} A = \\\\left\\[\\\\begin{matrix}2\
+  \ & 1\\\\\\\\ 1 & 2\\\\end{matrix}\\\\right\\] $$\n\n10\\. If \\\\(A\\\\) is a 2\
+  \ by 2 matrix with \u03C31 \u2265 \u03C32 > 0, find \\\\(||A^{-1}||\\_2\\\\) and\
+  \ \\\\(||A^{-1}||^2\\_F\\\\)."
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7: Eckart-Young: The Closest Rank k Matrix to A '
 uid: 7d689bdb-8da9-848c-569f-85e93ce9b9d4

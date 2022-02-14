@@ -2,6 +2,26 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Problem Set
+optional_text: "**Problems for Lecture 2  \nFrom textbook Section I.2**\n\n2\\. Suppose\
+  \ \\\\(\\\\boldsymbol{a}\\\\) and \\\\(\\\\boldsymbol{b}\\\\) are column vectors\
+  \ with components \\\\(a\\_1,\\\\ldots,a\\_m\\\\) and \\\\(b\\_1,\\\\ldots,b\\_p\\\
+  \\). Can you multiply \\\\(\\\\boldsymbol{a}\\\\) times \\\\(\\\\boldsymbol{b}^{\\\
+  \\mathtt{T}} \\\\) (yes or no)? What is the shape of the answer \\\\(\\\\boldsymbol{ab}^{\\\
+  \\mathtt{T}} \\\\)? What number is in row \\\\(i\\\\), column \\\\(j\\\\) of \\\\\
+  (\\\\boldsymbol{ab}^{\\\\mathtt{T}} \\\\)? What can you say about \\\\(\\\\boldsymbol{aa}^{\\\
+  \\mathtt{T}} \\\\)?\n\n6\\. If \\\\(A\\\\) has columns \\\\(\\\\boldsymbol{a}\\\
+  _1,\\\\boldsymbol{a}\\_2,\\\\boldsymbol{a}\\_3\\\\) and \\\\(B=I\\\\) is the identity\
+  \ matrix, what are the rank one matrices \\\\(\\\\boldsymbol{a}\\_1\\\\boldsymbol{b}\\\
+  _1^\\\\ast\\\\) and \\\\(\\\\boldsymbol{a}\\_2\\\\boldsymbol{b}\\_2^\\\\ast\\\\\
+  ) and \\\\(\\\\boldsymbol{a}\\_3\\\\boldsymbol{b}\\_3^\\\\ast\\\\) ? They should\
+  \ add to \\\\(AI=A\\\\)."
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2: Multiplying and Factoring Matrices'
 uid: 003d4125-685e-c948-74bd-fd5b60c51c59

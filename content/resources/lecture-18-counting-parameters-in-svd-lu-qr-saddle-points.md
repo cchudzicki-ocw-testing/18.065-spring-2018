@@ -2,6 +2,29 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Problem Set
+optional_text: "**Problems for Lecture 18  \nFrom textbook Section III.2**\n\n4\\\
+  . \\\\(S\\\\) is a symmetric matrix with eigenvalues \\\\(\\\\lambda\\_1>\\\\lambda\\\
+  _2>\\\\ldots>\\\\lambda\\_n\\\\) and eigenvectors \\\\(\\\\boldsymbol{q}\\_1,\\\\\
+  boldsymbol{q}\\_2,\\\\ldots,\\\\boldsymbol{q}\\_n\\\\). Which \\\\(i\\\\) of those\
+  \ eigenvectors are a basis for an \\\\(i\\\\)-dimensional subspace \\\\(Y\\\\) with\
+  \ this property: The minimum of \\\\(\\\\boldsymbol{x}^{\\\\mathtt{T}} S\\\\boldsymbol{x}/\\\
+  \\boldsymbol{x}^{\\\\mathtt{T}} \\\\boldsymbol{x}\\\\) for \\\\(\\\\boldsymbol{x}\\\
+  \\) in \\\\(Y\\\\) is \\\\(\\\\lambda\\_i\\\\)?\n\n10\\. Show that this \\\\(2n\\\
+  \\times 2n\\\\) KKT matrix \\\\(H\\\\) has \\\\(n\\\\) positive and \\\\(n\\\\)\
+  \ negative eigenvalues:\n\n$$  \n\\\\begin{array}{c}\\\\boldsymbol{S}\\\\textbf{\
+  \ positive definite}\\\\\\\\\\\\boldsymbol{C}\\\\textbf{ invertible}\\\\end{array}\\\
+  \\qquad \\\\boldsymbol{H}=\\\\left\\[\\\\begin{array}{cc}\\\\boldsymbol{S}&\\\\\
+  boldsymbol{C}\\\\\\\\\\\\boldsymbol{C}^{\\\\mathbf{T}}&\\\\mathbf{0}\\\\\\\\\\\\\
+  end{array}\\\\right\\]  \n$$\n\nThe first \\\\(n\\\\) pivots from \\\\(S\\\\) are\
+  \ positive. The last \\\\(n\\\\) pivots come from \\\\(-C^{\\\\mathtt{T}}S^{-1}C\\\
+  \\)."
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 18: Counting Parameters in SVD, LU, QR, Saddle Points'
 uid: 372ba297-7de9-51f2-5703-5e929fb72095

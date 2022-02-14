@@ -2,6 +2,28 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Problem Set
+optional_text: "**Problems for Lecture 11  \nFrom textbook Section I.11**\n\n6\\.\
+  \ The first page of I.11 shows _unit balls_ for the \\\\(\\\\ell^1\\\\) and \\\\\
+  (\\\\ell^2\\\\) and \\\\(\\\\ell^\\\\infty\\\\) norms. Those are the three sets\
+  \ of vectors \\\\(\\\\boldsymbol{v}=(v\\_1,v\\_2)\\\\) with \\\\(||\\\\boldsymbol{v}||\\\
+  _1\\\\leq 1, ||\\\\boldsymbol{v}||\\_2\\\\leq 1, ||\\\\boldsymbol{v}||\\_\\\\infty\\\
+  \\leq 1\\\\). _Unit balls are always convex because of the triangle inequality for\
+  \ vector norms_:\n\n$$ \\\\text{If } ||\\\\boldsymbol{v}||\\\\leq 1\\\\text{ and\
+  \ } ||\\\\boldsymbol{w}||\\\\leq1 \\\\text{ show that } ||\\\\frac{\\\\boldsymbol{v}}{2}+\\\
+  \\frac{\\\\boldsymbol{w}}{2}||\\\\leq 1$$\n\n10\\. What multiple of \\\\(\\\\boldsymbol{a}\
+  \ = \\\\left\\[\\\\begin{matrix}1\\\\\\\\1\\\\end{matrix}\\\\right\\]\\\\) should\
+  \ be subtracted from \\\\(\\\\boldsymbol{b} = \\\\left\\[\\\\begin{matrix}4\\\\\\\
+  \\0\\\\end{matrix}\\\\right\\]\\\\) to make the result \\\\(\\\\boldsymbol{A}\\\
+  _2\\\\) orthogonal to \\\\(\\\\boldsymbol{a}\\\\)? Sketch a figure to show \\\\\
+  (\\\\boldsymbol{a}\\\\), \\\\(\\\\boldsymbol{b}\\\\), and \\\\(\\\\boldsymbol{A}\\\
+  _2\\\\)."
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Lecture 11: Minimizing \u2016x\u2016 Subject to Ax = b "
 uid: 57520c26-1eb1-b9ca-bc44-60a953a67428

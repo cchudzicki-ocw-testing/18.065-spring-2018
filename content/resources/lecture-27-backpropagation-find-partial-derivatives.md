@@ -2,6 +2,18 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Problem Set
+optional_text: "**Problems for Lecture 27  \nFrom textbook Section VII.2**\n\n2\\\
+  . If \\\\(A\\\\) is an \\\\(m\\\\) by \\\\(n\\\\) matrix with \\\\(m>n\\\\), is\
+  \ it faster to multiply \\\\(A(A^{\\\\mathtt{T}} A)\\\\) or \\\\((AA^{\\\\mathtt{T}})A\\\
+  \\)?\n\n5\\. Draw a computational graph to compute the function \\\\(f(x,y)=x^3(x-y)\\\
+  \\). Use the graph to compute \\\\(f(2,3)\\\\)."
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 27: Backpropagation: Find Partial Derivatives'
 uid: a11969b7-2781-9223-9726-9718da7c7cb1

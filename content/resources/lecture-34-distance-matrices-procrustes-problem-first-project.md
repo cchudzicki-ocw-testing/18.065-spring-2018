@@ -2,6 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Problem Set
+optional_text: "**Problem for Lecture 34  \nFrom textbook Sections IV.9 and IV.10**\n\
+  \n1\\. Which orthogonal matrix \\\\(Q\\\\) minimizes \\\\(||X-YQ||^2\\_F\\\\)? Use\
+  \ the solution \\\\(Q=UV^{\\\\mathtt{T}} \\\\) above and also minimize as a function\
+  \ of \\\\(\\\\theta\\\\) (set the \\\\(\\\\theta\\\\)-derivative to zero):\n\n$$X\
+  \ = \\\\left\\[\\\\begin{matrix}1 & 2 \\\\\\\\ 2 &1\\\\end{matrix}\\\\right\\] \\\
+  \\hspace{12pt} Y = \\\\left\\[\\\\begin{matrix}1 & 0\\\\\\\\ 0 & 1\\\\end{matrix}\\\
+  \\right\\] \\\\hspace{12pt} Q = \\\\left\\[\\\\begin{matrix}\\\\cos\\\\theta & -\\\
+  \\sin\\\\theta\\\\\\\\ \\\\sin\\\\theta & \\\\cos\\\\theta\\\\end{matrix}\\\\right\\\
+  ] $$"
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 34: Distance Matrices, Procrustes Problem'
 uid: f7538bc9-0858-7cb8-0a7b-3788d90a46d1

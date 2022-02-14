@@ -2,6 +2,28 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Problem Set
+optional_text: "**Problems for Lecture 9  \nFrom textbook Section II.2**\n\n2\\. Why\
+  \ do \\\\(A\\\\) and \\\\(A\\\\){{< sup \"+\" >}} have the same rank? If \\\\(A\\\
+  \\) is square, do \\\\(A\\\\) and \\\\(A\\\\){{< sup \"+\" >}} have the same eigenvectors?\
+  \ What are the eigenvalues of \\\\(A\\\\){{< sup \"+\" >}} ?\n\n8\\. What multiple\
+  \ of \\\\(a = \\\\left\\[\\\\begin{matrix}1\\\\\\\\1\\\\end{matrix}\\\\right\\]\\\
+  \\) should be subtracted from \\\\(b = \\\\left\\[\\\\begin{matrix}4\\\\\\\\0\\\\\
+  end{matrix}\\\\right\\]\\\\) to make the result \\\\(A\\_2\\\\) orthogonal to \\\
+  \\(a\\\\)? Sketch a figure to show \\\\(a\\\\), \\\\(b\\\\), and \\\\(A\\_2\\\\\
+  ).\n\n9\\. Complete the Gram-Schmidt process in Problem 8 by computing \\\\(q\\\
+  _1=a/\\\\|a\\\\|\\\\) and \\\\(q\\_2=A\\_2/\\\\|A\\_2\\\\|\\\\) and factoring into\
+  \ \\\\(QR\\\\): $$\\\\left\\[\\\\begin{matrix}1 & 4\\\\\\\\ 1 & 0\\\\end{matrix}\\\
+  \\right\\] = \\\\left\\[\\\\begin{matrix}q\\_1 & q\\_2\\\\end{matrix}\\\\right\\\
+  ]\\\\left\\[\\\\begin{matrix}\\\\|a\\\\| & ?\\\\\\\\ 0 & \\\\|A\\_2\\\\|\\\\end{matrix}\\\
+  \\right\\]$$ The backslash command \\\\(A\\\\backslash b\\\\) is engineered to make\
+  \ \\\\(A\\\\) block diagonal when possible."
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 9: Four Ways to Solve Least Squares Problems'
 uid: a575de11-17f0-e13b-755d-03aacd93f61b
