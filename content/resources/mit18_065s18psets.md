@@ -8,6 +8,5 @@ parent_title: Assignments Related to Lectures and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 18.065 S18 Problem Sets
-type: OCWFile
 uid: cd4c57b7-e61b-8ca9-fdd3-511a30aca052
 ---

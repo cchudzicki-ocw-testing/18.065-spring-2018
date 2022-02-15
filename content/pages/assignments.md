@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Assignments Related to Lectures and Readings
-type: CourseSection
 uid: e3ceba9a-d584-e172-2dca-08201f771295
 ---
 

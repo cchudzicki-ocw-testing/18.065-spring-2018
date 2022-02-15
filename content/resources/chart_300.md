@@ -12,6 +12,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Image
 title: chart_300.jpg
-type: OCWImage
 uid: d6b96035-09fe-7de3-6c57-a0ed8ebd92d2
 ---

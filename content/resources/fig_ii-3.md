@@ -10,6 +10,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: Fig_II-3.jpg
-type: OCWImage
 uid: 25fc4da3-a8de-7b3b-4def-2954481cf268
 ---
