@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 24  \nFrom textbook Section VI.2**\n\n1\\.\
   \ Minimize \\\\(F(\\\\boldsymbol{x})=\\\\frac{1}{2}\\\\boldsymbol{x}^{\\\\mathtt{T}}\

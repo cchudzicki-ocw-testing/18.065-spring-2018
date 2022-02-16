@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 30  \nFrom textbook Section IV.8**\n\n3\\.\
   \ For a connected graph with \\\\(M\\\\) edges and \\\\(N\\\\) nodes, what requirement\

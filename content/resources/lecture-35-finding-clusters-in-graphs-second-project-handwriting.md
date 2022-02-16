@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problem for Lecture 35  \nFrom textbook Sections IV.6-IV.7**\n\n\
   1\\. What are the Laplacian matrices for a triangle graph and a square graph?"

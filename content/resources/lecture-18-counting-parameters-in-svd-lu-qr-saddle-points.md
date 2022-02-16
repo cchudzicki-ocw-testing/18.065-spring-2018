@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 18  \nFrom textbook Section III.2**\n\n4\\\
   . \\\\(S\\\\) is a symmetric matrix with eigenvalues \\\\(\\\\lambda\\_1>\\\\lambda\\\

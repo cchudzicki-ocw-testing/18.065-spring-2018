@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 6  \nFrom textbook Section I.8**\n\n1\\. A\
   \ symmetric matrix \\\\(S=S^{\\\\mathtt{T}}\\\\) has orthonormal eigenvectors \\\

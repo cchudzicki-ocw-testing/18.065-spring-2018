@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Sets
 optional_text: "**Problems for Lecture 3  \nFrom textbook Section I.5**\n\n2\\. Draw\
   \ unit vectors _**u**_ and _**v**_ that are _not_ orthogonal. Show that _**w**_\

@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 21  \nFrom textbook Sections VI.1 and VI.4**\n\
   \n1\\. When is the union of two circular discs a convex set? Or two squares?\n\n\

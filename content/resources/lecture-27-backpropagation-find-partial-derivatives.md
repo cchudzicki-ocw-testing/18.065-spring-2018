@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 27  \nFrom textbook Section VII.2**\n\n2\\\
   . If \\\\(A\\\\) is an \\\\(m\\\\) by \\\\(n\\\\) matrix with \\\\(m>n\\\\), is\

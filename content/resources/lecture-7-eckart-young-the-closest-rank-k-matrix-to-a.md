@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 7  \nFrom textbook Section I.9**\n\n2\\. Find\
   \ a closest rank-1 approximation to these matrices (\\\\(L^2\\\\) or Frobenius norm)\

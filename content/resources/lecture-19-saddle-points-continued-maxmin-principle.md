@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 19  \nFrom textbook Sections III.2 and V.1**\n\
   \n3\\. We know \\\\(\\\\frac{1}{3}\\\\) of all integers are divisible by 3 and \\\

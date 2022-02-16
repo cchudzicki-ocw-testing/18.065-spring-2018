@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 15  \nFrom textbook Sections III.1 - III.2**\n\
   \n1\\. A unit vector \\\\(\\\\boldsymbol{u}(t)\\\\) describes a point moving around\

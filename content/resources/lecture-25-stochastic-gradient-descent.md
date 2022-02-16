@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problem for Lecture 25  \nFrom textbook Section VI.5**\n\n1\\. Suppose\
   \ we want to minimize \\\\(F(x,y)=y^2+(y-x)^2\\\\). The actual minimum is \\\\(F=0\\\

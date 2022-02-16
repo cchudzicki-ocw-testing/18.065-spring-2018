@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 1**\n\n**From textbook Section I.1**\n\n1.\_\
   Give an example where a combination of three nonzero vectors in **R**{{< sup \"\

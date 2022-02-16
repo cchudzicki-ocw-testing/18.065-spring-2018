@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problem for Lecture 34  \nFrom textbook Sections IV.9 and IV.10**\n\
   \n1\\. Which orthogonal matrix \\\\(Q\\\\) minimizes \\\\(||X-YQ||^2\\_F\\\\)? Use\

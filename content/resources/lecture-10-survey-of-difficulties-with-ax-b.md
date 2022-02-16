@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 10  \nFrom textbook Introduction Chapter 2**\n\
   \nProblems 12 and 17 use four data points \\\\(\\\\boldsymbol{b}\\\\) = (0, 8, 8,\

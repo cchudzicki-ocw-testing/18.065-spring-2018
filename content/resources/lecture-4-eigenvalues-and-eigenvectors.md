@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 4**  \n**From textbook Section I.6**\n\n2\\\
   . Compute the eigenvalues and eigenvectors of _A_ and _A_{{< sup \"\u22121\" >}}.\

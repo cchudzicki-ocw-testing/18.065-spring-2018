@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problem for Lecture 12  \nFrom textbook Section II.1**\n\nThese\
   \ problems start with a bidiagonal \\\\(n\\\\) by \\\\(n\\\\) backward difference\
