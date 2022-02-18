@@ -43,7 +43,7 @@ The grade for the course is based on homework assignments, labs, and a final pro
 Student Information
 -------------------
 
-![54 students took this course when it was taught in Spring 2018.]({{< resource_file 60b048e7-8637-4837-d0cc-7803962a579c >}})
+{{< resource 60b048e7-8637-4837-d0cc-7803962a579c >}}
 
 ### Breakdown by Year
 

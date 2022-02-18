@@ -26,7 +26,7 @@ Description
 
 Linear algebra concepts are key for understanding and creating machine learning algorithms, especially as applied to deep learning and neural networks. This course reviews linear algebra with applications to probability and statistics and optimization–and above all a full explanation of deep learning.
 
-![Four boxes with text and four arrows to illustrate some math relationship.]({{< resource_file d6b96035-09fe-7de3-6c57-a0ed8ebd92d2 >}})
+{{< resource d6b96035-09fe-7de3-6c57-a0ed8ebd92d2 >}}
 
 Textbook
 --------
