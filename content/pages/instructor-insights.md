@@ -3,7 +3,6 @@ content_type: page
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
-parent_uid: null
 title: Instructor Insights
 uid: 07a3d3ea-a91f-17c3-4182-eb7fdf14e25d
 ---
@@ -24,7 +23,7 @@ Curriculum Information
 
 ### Prerequisites
 
-[_18.06 Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011)
+[_18.06 Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011/)
 
 ### Requirements Satisfied
 

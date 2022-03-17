@@ -2,12 +2,11 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments Related to Lectures and Readings
 uid: e3ceba9a-d584-e172-2dca-08201f771295
 ---
 
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "All problem sets in one file (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "All problem sets in one file (PDF)" >}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -39,7 +38,7 @@ The Column Space of \\(A\\) Contains All Vectors \\(A\\boldsymbol{x}\\)
 Section I.1
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set I.1 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set I.1 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +53,7 @@ Multiplying and Factoring Matrices 
 Section I.2
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set I.2 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set I.2 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +68,7 @@ Orthonormal Columns in \\(Q\\) Give \\(Q’Q= I\\)
 Section I.5
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set I.5 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set I.5 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +83,7 @@ Eigenvalues and Eigenvectors
 Section I.6
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set I.6 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set I.6 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +98,7 @@ Positive Definite and Semidefinite Matrices
 Section I.7
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set I.7 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set I.7 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +113,7 @@ Singular Value Decomposition (SVD)
 Section I.8
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set I.8 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set I.8 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +128,7 @@ Eckart-Young: The Closest Rank \\(k\\) Matrix to \\(A\\)
 Section I.9
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set I.9 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set I.9 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +143,7 @@ Norms of Vectors and Matrices
 Section I.11
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set I.11 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set I.11 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +158,7 @@ Four Ways to Solve Least Squares Problems 
 Section II.2
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set II.2 Problems 2, 8, 9 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set II.2 Problems 2, 8, 9 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +173,7 @@ Survey of Difficulties with \\(A\\boldsymbol{x} = \\boldsymbol{b}\\)
 Introduction Chapter 2
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set II.2 Problems 12, 17 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set II.2 Problems 12, 17 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -209,7 +208,7 @@ Computing Eigenvalues and Singular Values 
 Section II.1
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set II.1 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set II.1 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -224,7 +223,7 @@ Randomized Matrix Multiplication
 Section II.4
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set II.4 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set II.4 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -239,7 +238,7 @@ Low Rank Changes in \\(A\\) and Its Inverse
 Section III.1
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set III.1 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set III.1 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -254,7 +253,7 @@ Matrices \\(A(t)\\) Depending on \\(t\\), Derivative = \\(dA/dt\\)
 Sections III.1–III.2
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set III.2 Problems 1, 2, 5 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set III.2 Problems 1, 2, 5 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -269,7 +268,7 @@ Derivatives of Inverse and Singular Values
 Sections III.1–III.2
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set III.2 Problems 3, 12 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set III.2 Problems 3, 12 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -284,7 +283,7 @@ Rapidly Decreasing Singular Values
 Section III.3
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set III.3 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set III.3 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -299,7 +298,7 @@ Counting Parameters in SVD, LU, QR, Saddle Points
 Appendix, Section III.2
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set III.2 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set III.2 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -314,7 +313,7 @@ Saddle Points Continued, Maxmin Principle
 Sections III.2, V.1
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set V.1 Problems 3, 8 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set V.1 Problems 3, 8 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -349,7 +348,7 @@ Minimizing a Function Step by Step
 Sections VI.1, VI.4
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set VI.1 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set VI.1 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -364,7 +363,7 @@ Gradient Descent: Downhill to a Minimum
 Section VI.4
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set VI.4 Problems 1, 6 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set VI.4 Problems 1, 6 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -379,7 +378,7 @@ Accelerating Gradient Descent (Use Momentum)
 Section VI.4
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set VI.4 Problem 5 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set VI.4 Problem 5 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -414,7 +413,7 @@ Stochastic Gradient Descent
 Section VI.5
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set VI.5 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set VI.5 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -429,7 +428,7 @@ Structure of Neural Nets for Deep Learning
 Section VII.1
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set VII.1 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set VII.1 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -444,7 +443,7 @@ Backpropagation to Find Derivative of the Learning Function
 Section VII.2
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set VII.2 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set VII.2 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -509,7 +508,7 @@ Eigenvectors of Circulant Matrices: Fourier Matrix
 Section IV.2
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set IV.2 Problems 3, 5 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set IV.2 Problems 3, 5 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -524,7 +523,7 @@ ImageNet is a Convolutional Neural Network (CNN), The Convolution Rule
 Section IV.2
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set IV.2 Problem 4 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set IV.2 Problem 4 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -559,7 +558,7 @@ Distance Matrices, Procrustes Problem
 Sections IV.9–IV.10
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set IV.9 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set IV.9 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -574,7 +573,7 @@ Finding Clusters in Graphs
 Sections IV.6–IV.7
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set IV.6 (PDF)" %}}
+{{< resource_link cd4c57b7-e61b-8ca9-fdd3-511a30aca052 "Problem Set IV.6 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

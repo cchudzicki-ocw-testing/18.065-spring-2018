@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/gdrive_uploads/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/1W1MbAdYR75cx9FJzESi8i6jMz4yN8h7E/jellie3local1.mp4
 file_type: video/mp4
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Video
 title: jellie3local1.mp4
-uid: 131224e6-f0fd-440c-84b2-72bb2452c517
+uid: 10e60c42-5d7b-4866-8914-5acb6c5a4faa
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

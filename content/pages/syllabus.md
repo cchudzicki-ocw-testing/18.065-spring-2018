@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: eec60d51-0dcd-1e8d-4f9a-a3f45fb90640
 ---
@@ -20,7 +19,7 @@ Lectures: 3 sessions / week, 1 hour / session
 Prerequisites
 -------------
 
-[_18.06 Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011)
+[_18.06 Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011/)
 
 Description
 -----------
