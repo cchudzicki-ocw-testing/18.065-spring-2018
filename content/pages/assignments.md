@@ -192,8 +192,7 @@ Section I.11
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set I.11 Problem 6  
-Problem Set II.2 Problem 10 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{% resource_link "cd4c57b7-e61b-8ca9-fdd3-511a30aca052" "Problem Set I.11 Problem 6   Problem Set II.2 Problem 10 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -332,8 +331,7 @@ Sections V.1, V.3
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set V.1 Problems 10. 12  
-Problem Set V.3 Problem 3 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{% resource_link "cd4c57b7-e61b-8ca9-fdd3-511a30aca052" "Problem Set V.1 Problems 10. 12   Problem Set V.3 Problem 3 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -395,8 +393,7 @@ Sections VI.2–VI.3
 {{< tdopen >}}
 
 
-[Problem Set VI.2 Problem 1  
-Problem Set VI.3 Problems 2, 5 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{% resource_link "cd4c57b7-e61b-8ca9-fdd3-511a30aca052" "Problem Set VI.2 Problem 1   Problem Set VI.3 Problems 2, 5 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -490,8 +487,7 @@ Sections IV.8, IV.2
 {{< tdopen >}}
 
 
-[Problem Set IV.8  
-Problem Set IV.2 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{% resource_link "cd4c57b7-e61b-8ca9-fdd3-511a30aca052" "Problem Set IV.8   Problem Set IV.2 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -540,8 +536,7 @@ Sections VII.1, IV.10
 {{< tdopen >}}
 
 
-[Problem Set VII.1  
-Problem Set IV.10 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{% resource_link "cd4c57b7-e61b-8ca9-fdd3-511a30aca052" "Problem Set VII.1   Problem Set IV.10 (PDF)" %}}
 
 
 {{< tdclose >}}
