@@ -55,3 +55,4 @@ Summary
 Related section in textbook: II.2
 
 **Instructor:** Prof. Gilbert Strang
+

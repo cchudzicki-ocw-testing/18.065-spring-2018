@@ -50,3 +50,4 @@ Related section in textbook: I.9
 **Instructor:** Prof. Gilbert Strang
 
 p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 8.0px Verdana} span.s1 {font-kerning: none} span.s2 {font: 11.0px Verdana; font-kerning: none}
+

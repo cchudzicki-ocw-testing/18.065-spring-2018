@@ -58,3 +58,4 @@ Similar matrix \\(B = M^{-1}AM\\) has the same eigenvalues as \\(A\\)
 Related section in textbook: I.6
 
 **Instructor:** Prof. Gilbert Strang
+

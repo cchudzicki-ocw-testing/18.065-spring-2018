@@ -54,3 +54,4 @@ Rank = number of independent columns
 Related section in textbook: I.1
 
 **Instructor:** Prof. Gilbert Strang
+

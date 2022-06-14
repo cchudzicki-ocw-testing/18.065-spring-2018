@@ -60,3 +60,4 @@ Examples:
 Related section in textbook: I.5
 
 **Instructor:** Prof. Gilbert Strang
+

@@ -55,3 +55,4 @@ Find \\((m + n - r)r\\) parameters in a matrix of rank \\(r\\)
 Related section in textbook: III.2
 
 **Instructor:** Prof. Gilbert Strang
+

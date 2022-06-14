@@ -51,3 +51,4 @@ Sample variance and \\(k\\){{< sup "th" >}} eigenvalue variance
 Related sections in textbook: III.2 and V.1
 
 **Instructor:** Prof. Gilbert Strang
+

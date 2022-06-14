@@ -63,3 +63,4 @@ Dual linear program is a maximization: Max = Min!
 Related sections in textbook: VI.2–VI.3
 
 **Instructor:** Prof. Gilbert Strang
+

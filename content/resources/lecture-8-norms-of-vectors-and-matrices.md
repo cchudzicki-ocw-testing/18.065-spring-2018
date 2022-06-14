@@ -49,3 +49,4 @@ Orthogonal matrices have \\(\\Vert Q \\Vert\_2 = 1\\) and \\(\\Vert Q \\Vert^2\_
 Related section in textbook: I.11
 
 **Instructor:** Prof. Gilbert Strang
+

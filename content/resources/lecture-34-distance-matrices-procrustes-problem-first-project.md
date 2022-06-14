@@ -49,3 +49,4 @@ Find the orthogonal matrix \\(Q\\) so that \\(Qx\\)'s are closest to \\(y\\)'s.
 Related sections in textbook: IV.9 and IV.10
 
 **Instructor:** Prof. Gilbert Strang
+

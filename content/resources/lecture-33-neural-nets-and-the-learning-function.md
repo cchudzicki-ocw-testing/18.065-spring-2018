@@ -52,3 +52,4 @@ Distance matrix given between points: Find the points!
 Related sections in textbook: VII.1 and IV.10
 
 **Instructor:** Prof. Gilbert Strang
+

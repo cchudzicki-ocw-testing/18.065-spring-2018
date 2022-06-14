@@ -44,3 +44,4 @@ Newton's method uses higher derivatives (Hessian at higher cost).
 Related sections in textbook: VI.1, VI.4
 
 **Instructor:** Prof. Gilbert Strang
+

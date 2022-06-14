@@ -45,3 +45,4 @@ The key step to optimizing weights is backprop + stoch grad descent.
 Related section in textbook: VII.3
 
 **Instructor:** Prof. Gilbert Strang
+

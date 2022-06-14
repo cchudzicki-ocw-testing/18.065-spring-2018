@@ -57,3 +57,4 @@ Weights optimized to (usually) output that correct class.
 Related section in textbook: VII.1
 
 **Instructor:** Prof. Gilbert Strang
+

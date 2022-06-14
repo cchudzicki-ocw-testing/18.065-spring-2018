@@ -46,3 +46,4 @@ Convergence rate improves: 1 - \\(b\\) to 1 - square root of \\(b\\) !
 Related section in textbook: VI.4
 
 **Instructor:** Prof. Gilbert Strang
+

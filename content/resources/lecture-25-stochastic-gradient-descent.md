@@ -47,3 +47,4 @@ This method is the favorite for weights in deep learning.
 Related section in textbook: VI.5
 
 **Instructor:** Prof. Suvrit Sra
+

@@ -60,3 +60,4 @@ Note: Formula in class is correct in the textbook.
 Related section in textbook: III.1
 
 **Instructor:** Prof. Gilbert Strang
+

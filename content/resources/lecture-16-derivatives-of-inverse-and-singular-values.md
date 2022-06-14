@@ -52,3 +52,4 @@ Interlacing of eigenvalues / Weyl inequalities
 Related section in textbook: III.1-2
 
 **Instructor:** Prof. Gilbert Strang
+

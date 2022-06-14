@@ -56,3 +56,4 @@ Chebyshev's inequality Prob\[|\\(x\\) - mean| \\(\\geq\\) \\(a\\)\] \\(\\leq\\) 
 Related sections in textbook: V.1, V.3
 
 **Instructor:** Prof. Gilbert Strang
+

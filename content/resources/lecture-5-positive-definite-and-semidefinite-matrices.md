@@ -58,3 +58,4 @@ Semidefinite allows zero evalues/energy/pivots/determinants.
 Related section in textbook: I.7
 
 **Instructor:** Prof. Gilbert Strang
+

@@ -58,3 +58,4 @@ Five great factorizations:
 Related section in textbook: I.2
 
 **Instructor:** Prof. Gilbert Strang
+

@@ -50,3 +50,4 @@ Mean \\(= AB\\) (correct) and variance to be minimized
 Related section in textbook: II.4
 
 **Instructor:** Prof. Gilbert Strang
+

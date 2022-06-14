@@ -42,3 +42,4 @@ Two ways to separate graph nodes into clusters
 Related sections in textbook: IV.6–IV.7
 
 **Instructor:** Prof. Gilbert Strang
+

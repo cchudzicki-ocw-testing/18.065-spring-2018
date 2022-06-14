@@ -50,3 +50,4 @@ Remarkable function: logarithm of determinant of \\(X\\)
 Related section in textbook: VI.4
 
 **Instructor:** Prof. Gilbert Strang
+

@@ -59,3 +59,4 @@ Penalty method regularizes a singular problem.
 Related chapter in textbook: Introduction to Chapter II
 
 **Instructor:** Prof. Gilbert Strang
+

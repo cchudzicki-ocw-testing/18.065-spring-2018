@@ -47,3 +47,4 @@ Convolution Rule: \\(F(c\*d) = Fc\\) times \\(Fd\\) (component by component)
 Related section in textbook: IV.2
 
 **Instructor:** Prof. Gilbert Strang
+

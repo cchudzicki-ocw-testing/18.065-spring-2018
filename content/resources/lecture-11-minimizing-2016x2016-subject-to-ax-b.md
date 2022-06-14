@@ -55,3 +55,4 @@ Orthogonal vectors in \\(Q\\) from independent vectors in \\(A\\)
 Related section in textbook: I.11
 
 **Instructor:** Prof. Gilbert Strang
+

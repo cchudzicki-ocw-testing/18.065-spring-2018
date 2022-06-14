@@ -49,3 +49,4 @@ Eigenvalues of \\(C =\\) (Fourier matrix)(column zero of \\(C\\))
 Related section in textbook: IV.2
 
 **Instructor:** Prof. Gilbert Strang
+

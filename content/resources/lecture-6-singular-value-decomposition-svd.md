@@ -51,3 +51,4 @@ _A_ = (rotation)(stretching)(rotation) \\(U\\Sigma\\)_V_{{< sup "T" >}} for ever
 Related section in textbook: I.8
 
 **Instructor:** Prof. Gilbert Strang
+

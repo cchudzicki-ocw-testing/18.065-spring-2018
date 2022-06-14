@@ -47,3 +47,4 @@ Start of Fourier analysis for vectors
 Related section in textbook: IV.8 and IV.2
 
 **Instructor:** Prof. Gilbert Strang
+
