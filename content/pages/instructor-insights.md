@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section Professor Gilbert Strang describes various aspects of
+  how he taught 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine
+  Learning.
 draft: false
 layout: instructor_insights
 learning_resource_types: []
